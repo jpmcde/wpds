@@ -9,11 +9,11 @@
     version: '4.1.0',
 
     settings: {
-      timer_speed: 8000,
+      timer_speed: 180000,
       animation_speed: 500,
       bullets: false,
       stack_on_small: true,
-      navigation_arrows: false,
+      navigation_arrows: true,
       slide_number: false,
       container_class: 'orbit-container',
       stack_on_small_class: 'orbit-stack-on-small',
